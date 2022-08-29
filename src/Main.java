@@ -39,5 +39,7 @@ public class Main {
 
 //        AreaCalculator.area(1.0, 1.0);
 
+//        var x = NumbersOfDaysInMonth.getDaysInMonth(0, 2002);
+//        System.out.println(x);
     }
 }
